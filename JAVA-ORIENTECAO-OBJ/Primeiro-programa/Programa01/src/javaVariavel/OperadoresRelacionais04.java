@@ -1,4 +1,4 @@
-package javaVariavel01;
+package javaVariavel;
 
 public class OperadoresRelacionais04 {
 
