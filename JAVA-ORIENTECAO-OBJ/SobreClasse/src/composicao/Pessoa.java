@@ -1,4 +1,5 @@
-package primeiraClasse;
+// COMPOSIÇÃO
+package composicao;
 
 public class Pessoa {
 	

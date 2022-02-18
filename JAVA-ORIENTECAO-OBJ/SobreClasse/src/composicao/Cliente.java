@@ -1,4 +1,5 @@
-package primeiraClasse;
+// COMPOSIÇÃO
+package composicao;
 
 import java.sql.Date;
 
@@ -7,6 +8,7 @@ public class Cliente {
 	private String nome;
 	private String email;
 	private Date dataNasc;
+	
 	
 	public String getNome() {
 		return nome;
@@ -26,6 +28,4 @@ public class Cliente {
 	public void setDataNasc(Date dataNasc) {
 		this.dataNasc = dataNasc;
 	}
-	
-	
 }

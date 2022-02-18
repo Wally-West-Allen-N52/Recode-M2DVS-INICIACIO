@@ -1,4 +1,5 @@
-package primeiraClasse;
+// COMPOSIÇÃO
+package composicao;
 
 import java.sql.Date;
 import java.util.ArrayList;
