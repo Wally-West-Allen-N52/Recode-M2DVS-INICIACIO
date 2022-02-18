@@ -22,6 +22,7 @@ public class ClassificacaoIdade {
 		} else {
 			System.out.println("É um idoso");
 		}
+		entrada.close();
 	}
 
 }
