@@ -56,7 +56,7 @@ public class ContatosDao {
 
 	// MÉTODO REMOVER POR ID
 	public void removeById(int id) {
-		String sql = "DELETE FROM Contatos id = ?";
+		String sql = "DELETE FROM Contatos WHERE id = ?";
 
 		Connection conn = null;
 		PreparedStatement pstm = null;
